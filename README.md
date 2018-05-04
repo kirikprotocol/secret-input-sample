@@ -1,6 +1,4 @@
-# Secret input sample bat
-
-Secret input sample bot
+#Secret input sample bot
 
 The bot’s language is Russian. It shows how secret input plugin is used.
 
